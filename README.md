@@ -14,6 +14,14 @@ This repository contains the ROS 2 workspace and source code for an autonomous w
 
 ---
 
+## 🎥 Simulation Videos & Demos
+
+Watch the B3RB rover in action! You can view full simulation recordings, including autonomous navigation, obstacle avoidance, and object/QR scanning here:
+
+🔗 **[View Simulation Videos on Google Drive](https://drive.google.com/drive/folders/1DVH4kJL5a2vGV8RFFW7pIKMmXdg-TCHh?usp=sharing)**
+
+---
+
 ## 🚀 Phase-Wise Development Journey
 
 Our approach to solving the NXP AIM warehouse challenge evolved through several distinct phases of optimization and logic refinement:
@@ -118,5 +126,4 @@ ros2 run b3rb_ros_aim_india warehouse_explore --ros-args -p shelf_count:=<NUMBER
 
 *Note: The GUI will automatically launch in a separate thread once the exploration node starts.*
 
-
-```
+---
